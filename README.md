@@ -39,7 +39,7 @@ Institution: The ICT University
 # ICT Attend 🎓
 **The Ultimate Fraud-Proof Attendance Ecosystem for The ICT University**
 
-ICT Attend is a high-security, automated attendance management solution designed specifically for the academic rigors of **The ICT University**. It replaces outdated, cheat-prone paper registers with a sophisticated "Zero-Trust" verification engine.
+ICT Attend is a high-security, automated management solution designed specifically for the academic rigors of **The ICT University**. It replaces outdated, cheat-prone paper registers with a sophisticated "Zero-Trust" verification engine.
 
 ---
 
