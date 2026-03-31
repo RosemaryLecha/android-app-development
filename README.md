@@ -36,7 +36,7 @@ Institution: The ICT University
 4. Run `Main.kt`
 
 
-# ICT Attend 🎓
+# ICTU Attend 🎓
 **The Ultimate Fraud-Proof Attendance Ecosystem for The ICT University**
 
 ICT Attend is a high-security, management solution designed specifically for the academic rigors of **The ICT University**. It replaces outdated, cheat-prone paper registers with a sophisticated "Zero-Trust" verification engine.
