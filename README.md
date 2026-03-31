@@ -43,7 +43,7 @@ ICT Attend is a high-security, management solution designed specifically for the
 
 ---
 
-## 🚀 The Value Proposition (Selling ICT Attend)
+## 🚀 The Value Proposition 
 
 In an environment where academic integrity is paramount, **ICT Attend** stands as the definitive barrier against attendance fraud. We have engineered a "Two-Factor" verification process that ensures every "Present" mark is earned.
 
